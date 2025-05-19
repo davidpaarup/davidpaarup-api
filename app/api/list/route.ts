@@ -4,7 +4,7 @@ import { list, ListCommandOptions } from "@vercel/blob";
 export async function GET() {
 
   const options: ListCommandOptions = { 
-    token: process.env.NEXT_PUBLIC_TOKEN // TODO: is this public?
+    token: process.env.TOKEN
   }
 
   const result = await list(options);
