@@ -8,9 +8,36 @@ export default function ImageUploadPage() {
 
   const inputFileRef = useRef<HTMLInputElement>(null);
   const [url, setUrl] = useState<string | null>(null);
+  const [loggedIn, setLoggedIn] = useState<boolean | null>(false);
+  const [password, setPassword] = useState<string>('');
   
   return (
     <>
+
+    { !loggedIn &&
+      <div className="flex">
+         <form onSubmit={async (event) => {
+            event.preventDefault();
+            
+            if (password === 'mydppass') {
+              setLoggedIn(true);
+            }
+          }}>
+
+          <div className="flex">
+            <input 
+              type="password" 
+              placeholder="Password" 
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+            />
+            <button type="submit">Login</button>
+          </div>
+        </form>
+      </div>
+    }
+
+    { loggedIn &&
       <div className="flex">
         <form
           onSubmit={async (event) => {
@@ -42,6 +69,7 @@ export default function ImageUploadPage() {
           </div>
         )}
         </div>
+}
     </>
   );
 }
