@@ -60,7 +60,8 @@
                     "name": "Alex Lomart",
                     "description": "Photography portfolio using Wordpress.",
                     "url": "https://alexlomart.com",
-                    "startYear": 2019
+                    "startYear": 2019, 
+                    "location": "Madrid"
                 },
                 {
                     "name": "Drawings",
@@ -146,7 +147,8 @@
                     "name": "Alex Lomart",
                     "description": "Portafolio de fotografía usando Wordpress.",
                     "url": "https://alexlomart.com",
-                    "startYear": 2019
+                    "startYear": 2019,
+                    "location": "Madrid"
                 },
                 {
                     "name": "Dibujos",
