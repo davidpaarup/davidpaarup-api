@@ -300,7 +300,8 @@
                         "startYear": 2015,
                         "endYear": 2019,
                         "location": "Madrid",
-                        "type": "bachelor"
+                        "type": "bachelor",
+                        "description": "Generel viden om hardware og software."
                     }
                 ]
             },
@@ -420,7 +421,8 @@
                     "startYear": 2015,
                     "endYear": 2019,
                     "location": "Madrid",
-                    "type": "bachelor"
+                    "type": "bachelor",
+                    "description": "Generel viden om hardware og software."
                 }
             ]
         },
