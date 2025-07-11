@@ -12,7 +12,17 @@ export async function GET() {
     const jsonData = JSON.parse(data);
     
     // Return the data as a JSON response
-    return NextResponse.json(jsonData);
+
+    return NextResponse.json(jsonData,
+      {
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
+          'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+          'Content-Type': 'application/json',
+        },
+      }
+    );
   } catch (error) {
     // Handle any errors (file not found, invalid JSON, etc.)
     console.error('Error reading data.json:', error);
