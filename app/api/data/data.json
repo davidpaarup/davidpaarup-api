@@ -3,15 +3,15 @@
         "language": "english",
         "data": {
             "name": {
-                "section-title": "Name",
+                "sectionTitle": "Name",
                 "text": "David Paarup"
             },
             "description": {
-                "section-title": "Description",
+                "sectionTitle": "Description",
                 "text": "Software engineer with a sense for detail, quality and team work. Always striving to learn."
             },
             "experience": {
-                "section-title": "Experience",
+                "sectionTitle": "Experience",
                 "data": [
                     {
                         "company": "LetsReg",
@@ -54,7 +54,7 @@
                 ]
             },
             "education": {
-                "section-title": "Education",
+                "sectionTitle": "Education",
                 "data": [
                 {
                     "school": "UAM",
@@ -68,7 +68,7 @@
                 ]
             },
             "projects": {
-                "section-title": "Projects",
+                "sectionTitle": "Projects",
                 "data": [
                 {
                     "name": "Alex Lomart",
@@ -86,7 +86,7 @@
                 ]
             },
             "skills": {
-                "section-title": "Skills",
+                "sectionTitle": "Skills",
                 "data": [
                 "Angular",
                 ".Net",
@@ -96,22 +96,22 @@
                 ]
             },
             "languages": {
-                "section-title": "Languages",
+                "sectionTitle": "Languages",
                 "data": [  
                 "Spanish",
                 "English",
                 "Danish"
             ]},
             "email": {
-                "section-title": "Email",
+                "sectionTitle": "Email",
                 "text": "hi@davidpaarup.com"
             },
             "location": {
-                "section-title": "Location",
+                "sectionTitle": "Location",
                 "text": "Oslo"
             },
             "birthDate": {
-                "section-title": "Birth Date",
+                "sectionTitle": "Birth Date",
                 "text": "24-12-1992"
             }
         }
@@ -120,15 +120,15 @@
         "language": "spanish",
         "data": {
             "name": {
-                "section-title": "Nombre",
+                "sectionTitle": "Nombre",
                 "text": "David Paarup"
             },
             "description": {
-                "section-title": "Descripción",
+                "sectionTitle": "Descripción",
                 "text": "Ingeniero informático que valora el detalle, la calidad y el trabajo en equipo. Siempre intento mejorar."
             },
             "experience": {
-                "section-title": "Experiencia",
+                "sectionTitle": "Experiencia",
                 "data": [
                 {
                     "company": "LetsReg",
@@ -170,7 +170,7 @@
                 }
             ],
             "education": {
-                "section-title": "Educación",
+                "sectionTitle": "Educación",
                 "data": [
                 {
                     "school": "UAM",
@@ -184,7 +184,7 @@
                 ]
             },
             "projects": {
-                "section-title": "Proyectos",
+                "sectionTitle": "Proyectos",
                 "data": [
                 {
                     "name": "Alex Lomart",
@@ -202,7 +202,7 @@
                 ]
             },
             "skills": {
-                "section-title": "Habilidades",
+                "sectionTitle": "Habilidades",
                 "data": [
                 "Angular",
                 ".Net",
@@ -212,7 +212,7 @@
                 ]
             },
             "languages": {
-                "section-title": "Idiomas",
+                "sectionTitle": "Idiomas",
                 "data": [  
                 "Español",
                 "Inglés",
@@ -220,15 +220,15 @@
                 ]}
             },
             "email": {
-                "section-title": "Email",
+                "sectionTitle": "Email",
                 "text": "hi@davidpaarup.com"
             },
             "location": {
-                "section-title": "Ubicación",
+                "sectionTitle": "Ubicación",
                 "text": "Madrid"
             },
             "birthDate": {
-                "section-title": "Fecha de nacimiento",
+                "sectionTitle": "Fecha de nacimiento",
                 "text": "24-12-1992"
             }
         }
