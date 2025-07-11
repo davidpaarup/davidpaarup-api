@@ -139,7 +139,7 @@
                     "url": "https://letsreg.com",
                     "startYear": 2022,
                     "current": true,
-                    "location": "Madrid"
+                    "location": "Oslo"
                 },
                 {
                     "company": "Danske Bank",
@@ -148,7 +148,7 @@
                     "url": "https://danskebank.dk",
                     "startYear": 2019,
                     "endYear": 2022,
-                    "location": "Copenhagen"
+                    "location": "Copenhague"
                 },
                 {
                     "company": "IIC",
@@ -258,7 +258,7 @@
                         "url": "https://letsreg.com",
                         "startYear": 2022,
                         "current": true,
-                        "location": "København"
+                        "location": "Oslo"
                     },
                     {
                         "company": "Danske Bank",
@@ -387,7 +387,7 @@
                         "url": "https://danskebank.dk",
                         "startYear": 2019,
                         "endYear": 2022,
-                        "location": "Oslo"
+                        "location": "København"
                     },
                     {
                         "company": "IIC",
