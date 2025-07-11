@@ -222,7 +222,7 @@
                 ]
             },
             "email": {
-                "sectionTitle": "Email",
+                "sectionTitle": "Correo electrónico",
                 "text": "hi@davidpaarup.com"
             },
             "location": {
@@ -231,6 +231,124 @@
             },
             "birthDate": {
                 "sectionTitle": "Fecha de nacimiento",
+                "text": "24-12-1992"
+            }
+        }
+    },
+    {
+        "language": "danish",
+        "data": {
+            "name": {
+                "sectionTitle": "Navn",
+                "text": "David Paarup"
+            },
+            "description": {
+                "sectionTitle": "Beskrivelse",
+                "text": "Softwareudvikler med en følelse for detaljer, kvalitet og teamarbejde. Altid i gang med at lære."
+            },
+            "experience": {
+                "sectionTitle": "Erfaring",
+                "data": [
+                    {
+                        "company": "LetsReg",
+                        "position": "Full stack udvikler",
+                        "description": "Design og udvikling af webapplikationen og services ved hjælp af Angular, .Net, MSSQL, Kubernetes og Azure.",
+                        "url": "https://letsreg.com",
+                        "startYear": 2022,
+                        "current": true,
+                        "location": "København"
+                    },
+                    {
+                        "company": "Danske Bank",
+                        "position": "Softwareudvikler",
+                        "description": "Design og udvikling af en webapplikation og services relateret til bæredygtighed ved hjælp af Angular, .Net og MSSQL.",
+                        "url": "https://danskebank.dk",
+                        "startYear": 2019,
+                        "endYear": 2022,
+                        "location": "København"
+                    },
+                    {
+                        "company": "IIC",
+                        "position": "Softwareudvikler",
+                        "description": "Modularisering af store Bash-skripter ved hjælp af Python, konverteret til microservices ordnet af Kubernetes.",
+                        "url": "https://www.iic.uam.es",
+                        "startYear": 2018,
+                        "endYear": 2019,
+                        "location": "Madrid",
+                        "type": "deltidsjob"
+                    },
+                    {
+                        "company": "Flexxible",
+                        "position": "Softwareudvikler",
+                        "description": "Automatisering af konfiguration og distribution af virtuelle maskiner ved hjælp af Chef og VMware.",
+                        "url": "https://www.flexxible.com",
+                        "startYear": 2018,
+                        "endYear": 2018,
+                        "location": "Madrid",
+                        "type": "praktik"
+                    }
+                ]
+            },
+            "education": {
+                "sectionTitle": "Uddannelse",
+                "data": [
+                    {
+                        "school": "UAM",
+                        "degree": "Ingeniør i datalogi",
+                        "startYear": 2015,
+                        "endYear": 2019,
+                        "location": "Madrid",
+                        "type": "bachelor"
+                    }
+                ]
+            },
+            "projects": {
+                "sectionTitle": "Projekter",
+                "data": [
+                    {
+                        "name": "Alex Lomart",
+                        "description": "Fotografi portfolio med Wordpress.",
+                        "url": "https://alexlomart.com",
+                        "startYear": 2019,
+                        "location": "Madrid"
+                    },
+                    {
+                        "name": "Tegninger",
+                        "description": "Tegninger jeg laver for sjov.",
+                        "url": "https://davidpaarup.com/drawings",
+                        "current": true
+                    }
+                ]
+            },
+            "skills": { 
+                "sectionTitle": "Færdigheder",
+                "data": [
+                    "Angular",
+                    ".Net",
+                    "SQL",
+                    "Kubernetes",
+                    "Azure"
+                ]
+            },
+            "languages": {
+                "sectionTitle": "Sprog",
+                "capitalize": false,
+                "data": [
+                    "Dansk",
+                    "Engelsk",
+                    "Spansk"
+                ]
+            },
+            "email": {
+                "sectionTitle": "Email",
+                "text": "hi@davidpaarup.com"
+            },
+            "location": {
+                "sectionTitle": "Lokation",
+                "text": "København"
+            },
+            "birthDate": {
+                "sectionTitle": "Fødselsdato",
                 "text": "24-12-1992"
             }
         }
