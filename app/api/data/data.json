@@ -262,7 +262,7 @@
                     },
                     {
                         "company": "Danske Bank",
-                        "position": "Softwareudvikler",
+                        "position": "Softwareingeniør",
                         "description": "Design og udvikling af en webapplikation og services relateret til bæredygtighed ved hjælp af Angular, .Net og MSSQL.",
                         "url": "https://danskebank.dk",
                         "startYear": 2019,
@@ -271,7 +271,7 @@
                     },
                     {
                         "company": "IIC",
-                        "position": "Softwareudvikler",
+                        "position": "Softwareingeniør",
                         "description": "Modularisering af store Bash-skripter ved hjælp af Python, konverteret til microservices ordnet af Kubernetes.",
                         "url": "https://www.iic.uam.es",
                         "startYear": 2018,
@@ -366,7 +366,7 @@
         },
         "description": {
             "sectionTitle": "Beskrivelse",
-            "text": "Softwareutvikler med en følelse for detaljer, kvalitet og teamarbejde. Alltid i gang med å lære."
+            "text": "Softwareutvikler med fokus på detaljer, kvalitet og teamarbejde. Alltid i gang med å lære."
         },
         "experience": {
             "sectionTitle": "Erfaring",
@@ -382,7 +382,7 @@
                 },
                 {
                     "company": "Danske Bank",
-                    "position": "Softwareutvikler",
+                    "position": "Softwareingeniør",
                     "description": "Design og utvikling av en webapplikasjon og services relateret til bæredygtighed ved hjelp av Angular, .Net og MSSQL.",
                     "url": "https://danskebank.dk",
                     "startYear": 2019,
@@ -391,7 +391,7 @@
                 },
                 {
                     "company": "IIC",
-                    "position": "Softwareutvikler",
+                    "position": "Softwareingeniør",
                     "description": "Modularisering av store Bash-skripter ved hjelp av Python, konverteret til microservices ordnet av Kubernetes.",
                     "url": "https://www.iic.uam.es",
                     "startYear": 2018,
