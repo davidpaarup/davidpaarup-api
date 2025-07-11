@@ -31,7 +31,7 @@
                     "startYear": 2018,
                     "endYear": 2019,
                     "location": "Madrid",
-                    "type": "Part-time"
+                    "type": "part-time"
                 },
                 {
                     "company": "Flexxible",
@@ -41,7 +41,7 @@
                     "startYear": 2018,
                     "endYear": 2018,
                     "location": "Madrid",
-                    "type": "Internship"
+                    "type": "internship"
                 }
             ],
             "education": [
@@ -117,7 +117,7 @@
                     "startYear": 2018,
                     "endYear": 2019,
                     "location": "Madrid",
-                    "type": "Tiempo parcial"
+                    "type": "tiempo parcial"
                 },
                 {
                     "company": "Flexxible",
@@ -127,7 +127,7 @@
                     "startYear": 2018,
                     "endYear": 2018,
                     "location": "Madrid",
-                    "type": "Prácticas"
+                    "type": "prácticas"
                 }
             ],
             "education": [
