@@ -2,49 +2,60 @@
     {
         "language": "english",
         "data": {
-            "name": "David Paarup",
-            "description": "Software engineer with a sense for detail, quality and team work. Always striving to learn.",
-            "experience": [
-                {
-                    "company": "LetsReg",
-                    "position": "Full stack developer",
-                    "description": "Design and development of the web application and services using Angular, .Net, MSSQL, Kubernetes and Azure.",
-                    "url": "https://letsreg.com",
-                    "startYear": 2022,
-                    "current": true,
-                    "location": "Oslo"
-                },
-                {
-                    "company": "Danske Bank",
-                    "position": "Software engineer",
-                    "description": "Design and development of a sustainability related web application and services using Angular, .Net and MSSQL.",
-                    "url": "https://danskebank.dk",
-                    "startYear": 2019,
-                    "endYear": 2022,
-                    "location": "Copenhagen"
-                },
-                {
-                    "company": "IIC",
-                    "position": "Software engineer",
-                    "description": "Modularisation of large Bash scripts using Python, converting them to micro-services orchestrated by Kubernetes.",
-                    "url": "https://www.iic.uam.es",
-                    "startYear": 2018,
-                    "endYear": 2019,
-                    "location": "Madrid",
-                    "type": "part-time"
-                },
-                {
-                    "company": "Flexxible",
-                    "position": "Software developer",
-                    "description": "Automation of virtual machine configuration and deployment using Chef and VMware.",
-                    "url": "https://www.flexxible.com",
-                    "startYear": 2018,
-                    "endYear": 2018,
-                    "location": "Madrid",
-                    "type": "internship"
-                }
-            ],
-            "education": [
+            "name": {
+                "section-title": "Name",
+                "text": "David Paarup"
+            },
+            "description": {
+                "section-title": "Description",
+                "text": "Software engineer with a sense for detail, quality and team work. Always striving to learn."
+            },
+            "experience": {
+                "section-title": "Experience",
+                "data": [
+                    {
+                        "company": "LetsReg",
+                        "position": "Full stack developer",
+                        "description": "Design and development of the web application and services using Angular, .Net, MSSQL, Kubernetes and Azure.",
+                        "url": "https://letsreg.com",
+                        "startYear": 2022,
+                        "current": true,
+                        "location": "Oslo"
+                    },
+                    {
+                        "company": "Danske Bank",
+                        "position": "Software engineer",
+                        "description": "Design and development of a sustainability related web application and services using Angular, .Net and MSSQL.",
+                        "url": "https://danskebank.dk",
+                        "startYear": 2019,
+                        "endYear": 2022,
+                        "location": "Copenhagen"
+                    },
+                    {
+                        "company": "IIC",
+                        "position": "Software engineer",
+                        "description": "Modularisation of large Bash scripts using Python, converting them to micro-services orchestrated by Kubernetes.",
+                        "url": "https://www.iic.uam.es",
+                        "startYear": 2018,
+                        "endYear": 2019,
+                        "location": "Madrid",
+                        "type": "part-time"
+                    },
+                    {
+                        "company": "Flexxible",
+                        "position": "Software developer",
+                        "description": "Automation of virtual machine configuration and deployment using Chef and VMware.",
+                        "url": "https://www.flexxible.com",
+                        "startYear": 2018,
+                        "endYear": 2018,
+                        "location": "Madrid",
+                        "type": "internship"
+                    }
+                ]
+            },
+            "education": {
+                "section-title": "Education",
+                "data": [
                 {
                     "school": "UAM",
                     "degree": "Computer science",
@@ -54,8 +65,11 @@
                     "type": "bachelor",
                     "description": "General hardware and software knowledge."
                 }
-            ],
-            "projects": [
+                ]
+            },
+            "projects": {
+                "section-title": "Projects",
+                "data": [
                 {
                     "name": "Alex Lomart",
                     "description": "Photography portfolio using Wordpress.",
@@ -69,30 +83,53 @@
                     "url": "https://davidpaarup.com/drawings",
                     "current": true
                 }
-            ],
-            "skills": [
+                ]
+            },
+            "skills": {
+                "section-title": "Skills",
+                "data": [
                 "Angular",
                 ".Net",
                 "SQL",
                 "Kubernetes",
                 "Azure"
-            ],
-            "languages": [  
+                ]
+            },
+            "languages": {
+                "section-title": "Languages",
+                "data": [  
                 "Spanish",
                 "English",
                 "Danish"
-            ],
-            "email": "hi@davidpaarup.com",
-            "location": "Oslo",
-            "birthDate": "24-12-1992"
+            ]},
+            "email": {
+                "section-title": "Email",
+                "text": "hi@davidpaarup.com"
+            },
+            "location": {
+                "section-title": "Location",
+                "text": "Oslo"
+            },
+            "birthDate": {
+                "section-title": "Birth Date",
+                "text": "24-12-1992"
+            }
         }
     },
     {
         "language": "spanish",
         "data": {
-            "name": "David Paarup",
-            "description": "Ingeniero informático que valora el detalle, la calidad y el trabajo en equipo. Siempre intento mejorar.",
-            "experience": [
+            "name": {
+                "section-title": "Nombre",
+                "text": "David Paarup"
+            },
+            "description": {
+                "section-title": "Descripción",
+                "text": "Ingeniero informático que valora el detalle, la calidad y el trabajo en equipo. Siempre intento mejorar."
+            },
+            "experience": {
+                "section-title": "Experiencia",
+                "data": [
                 {
                     "company": "LetsReg",
                     "position": "Desarrollador full stack",
@@ -132,7 +169,9 @@
                     "type": "prácticas"
                 }
             ],
-            "education": [
+            "education": {
+                "section-title": "Educación",
+                "data": [
                 {
                     "school": "UAM",
                     "degree": "Ingeniería informática",
@@ -142,8 +181,11 @@
                     "type": "grado",
                     "description": "Conocimientos generales de hardware y software."
                 }
-            ],
-            "projects": [
+                ]
+            },
+            "projects": {
+                "section-title": "Proyectos",
+                "data": [
                 {
                     "name": "Alex Lomart",
                     "description": "Portafolio de fotografía usando Wordpress.",
@@ -157,22 +199,38 @@
                     "url": "https://davidpaarup.com/drawings",
                     "current": true
                 }
-            ],
-            "skills": [
+                ]
+            },
+            "skills": {
+                "section-title": "Habilidades",
+                "data": [
                 "Angular",
                 ".Net",
                 "SQL",
                 "Kubernetes",
                 "Azure"
-            ],
-            "languages": [  
+                ]
+            },
+            "languages": {
+                "section-title": "Idiomas",
+                "data": [  
                 "Español",
                 "Inglés",
                 "Danés"
-            ],
-            "email": "hi@davidpaarup.com",
-            "location": "Madrid",
-            "birthDate": "24-12-1992"
+                ]}
+            },
+            "email": {
+                "section-title": "Email",
+                "text": "hi@davidpaarup.com"
+            },
+            "location": {
+                "section-title": "Ubicación",
+                "text": "Madrid"
+            },
+            "birthDate": {
+                "section-title": "Fecha de nacimiento",
+                "text": "24-12-1992"
+            }
         }
     }
    
