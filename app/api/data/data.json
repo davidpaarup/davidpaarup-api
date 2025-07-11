@@ -80,7 +80,7 @@
                 {
                     "name": "Drawings",
                     "description": "Drawings I do for fun.",
-                    "url": "https://davidpaarup.com/drawings",
+                    "url": "https://davidpaarup.com/drawings.html",
                     "current": true
                 }
                 ]
@@ -198,7 +198,7 @@
                 {
                     "name": "Dibujos",
                     "description": "Dibujos que hago por diversión.",
-                    "url": "https://davidpaarup.com/drawings",
+                    "url": "https://davidpaarup.com/drawings.html",
                     "current": true
                 }
                 ]
@@ -318,7 +318,7 @@
                     {
                         "name": "Tegninger",
                         "description": "Tegninger jeg laver for sjov.",
-                        "url": "https://davidpaarup.com/drawings",
+                        "url": "https://davidpaarup.com/drawings.html",
                         "current": true
                     }
                 ]
@@ -438,7 +438,7 @@
                     {
                         "name": "Tegninger",
                         "description": "Tegninger jeg laver for sjov.",
-                        "url": "https://davidpaarup.com/drawings",
+                        "url": "https://davidpaarup.com/drawings.html",
                         "current": true
                     }
                 ]
