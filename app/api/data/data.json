@@ -26,7 +26,7 @@
                         "company": "Danske Bank",
                         "position": "Software engineer",
                         "description": "Design and development of a sustainability related web application and services using Angular, .Net and MSSQL.",
-                        "url": "https://danskebank.dk",
+                        "url": "https://danskebank.com",
                         "startYear": 2019,
                         "endYear": 2022,
                         "location": "Copenhagen"
@@ -145,7 +145,7 @@
                     "company": "Danske Bank",
                     "position": "Ingeniero de software",
                     "description": "Diseño y desarrollo de una aplicación web y servicios relacionados con la sostenibilidad usando Angular, .Net y MSSQL.",
-                    "url": "https://danskebank.dk",
+                    "url": "https://danskebank.com",
                     "startYear": 2019,
                     "endYear": 2022,
                     "location": "Copenhague"
@@ -384,7 +384,7 @@
                         "company": "Danske Bank",
                         "position": "Softwareingeniør",
                         "description": "Design og utvikling av en webapplikasjon og services relateret til bæredygtighed ved hjelp av Angular, .Net og MSSQL.",
-                        "url": "https://danskebank.dk",
+                        "url": "https://danskebank.no",
                         "startYear": 2019,
                         "endYear": 2022,
                         "location": "København"
