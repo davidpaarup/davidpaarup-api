@@ -13,7 +13,6 @@
                     "startYear": 2022,
                     "current": true,
                     "location": "Oslo",
-                    "type": "full-time"
                 },
                 {
                     "company": "Danske Bank",
@@ -23,7 +22,6 @@
                     "startYear": 2019,
                     "endYear": 2022,
                     "location": "Copenhagen",
-                    "type": "full-time"
                 },
                 {
                     "company": "IIC",
@@ -33,7 +31,7 @@
                     "startYear": 2018,
                     "endYear": 2019,
                     "location": "Madrid",
-                    "type": "part-time"
+                    "type": "Part-time"
                 },
                 {
                     "company": "Flexxible",
@@ -43,7 +41,7 @@
                     "startYear": 2018,
                     "endYear": 2018,
                     "location": "Madrid",
-                    "type": "internship"
+                    "type": "Internship"
                 }
             ],
             "education": [
@@ -101,7 +99,6 @@
                     "startYear": 2022,
                     "current": true,
                     "location": "Madrid",
-                    "type": "full-time"
                 },
                 {
                     "company": "Danske Bank",
@@ -111,7 +108,6 @@
                     "startYear": 2019,
                     "endYear": 2022,
                     "location": "Copenhagen",
-                    "type": "full-time"
                 },
                 {
                     "company": "IIC",
@@ -121,7 +117,7 @@
                     "startYear": 2018,
                     "endYear": 2019,
                     "location": "Madrid",
-                    "type": "part-time"
+                    "type": "Tiempo parcial"
                 },
                 {
                     "company": "Flexxible",
@@ -131,7 +127,7 @@
                     "startYear": 2018,
                     "endYear": 2018,
                     "location": "Madrid",
-                    "type": "internship"
+                    "type": "Prácticas"
                 }
             ],
             "education": [
