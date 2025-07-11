@@ -168,7 +168,7 @@
                     "location": "Madrid",
                     "type": "prácticas"
                 }
-            ],
+            ]},
             "education": {
                 "sectionTitle": "Educación",
                 "data": [
@@ -232,6 +232,5 @@
                 "text": "24-12-1992"
             }
         }
-    }
-   
+
 ]
