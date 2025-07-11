@@ -310,7 +310,7 @@
                 "data": [
                     {
                         "name": "Alex Lomart",
-                        "description": "Fotografi portfolio med Wordpress.",
+                        "description": "Fotografiportfolio med Wordpress.",
                         "url": "https://alexlomart.com",
                         "startYear": 2019,
                         "location": "Madrid"
@@ -430,14 +430,14 @@
                 "data": [
                     {
                         "name": "Alex Lomart",
-                        "description": "Fotografi portfolio med Wordpress.",
+                        "description": "Fotografiportfolio med Wordpress.",
                         "url": "https://alexlomart.com",
                         "startYear": 2019,
                         "location": "Madrid"
                     },
                     {
                         "name": "Tegninger",
-                        "description": "Tegninger jeg laver for sjov.",
+                        "description": "Tegninger jeg lager for gøy.",
                         "url": "https://davidpaarup.com/drawings.html",
                         "current": true
                     }
