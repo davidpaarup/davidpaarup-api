@@ -219,7 +219,7 @@
                 "Español",
                 "Inglés",
                 "Danés"
-                ]}
+                ]
             },
             "email": {
                 "sectionTitle": "Email",
@@ -234,5 +234,5 @@
                 "text": "24-12-1992"
             }
         }
-
+    }
 ]
