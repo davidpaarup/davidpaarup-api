@@ -97,6 +97,7 @@
             },
             "languages": {
                 "sectionTitle": "Languages",
+                "capitalize": true,
                 "data": [  
                 "Spanish",
                 "English",
@@ -213,6 +214,7 @@
             },
             "languages": {
                 "sectionTitle": "Idiomas",
+                "capitalize": false,
                 "data": [  
                 "Español",
                 "Inglés",
