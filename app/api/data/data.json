@@ -85,7 +85,7 @@
                 },
                 {
                     "name": "Urban sketchers",
-                    "description": "Prototype of a website that could be used by an Urban Sketchers chapter.",
+                    "description": "Website that could be used by an Urban Sketchers chapter.",
                     "url": "https://urban-sketchers.vercel.app",
                     "startYear": 2025, 
                     "location": "Oslo"
@@ -210,7 +210,7 @@
                 },
                 {
                     "name": "Urban sketchers",
-                    "description": "Prototipo de un sitio web que podría ser usado por un grupo de Urban Sketchers.",
+                    "description": "Sitio web que podría ser usado por un grupo de Urban Sketchers.",
                     "url": "https://urban-sketchers.vercel.app",
                     "startYear": 2025, 
                     "location": "Oslo"
@@ -337,7 +337,7 @@
                     },
                     {
                         "name": "Urban sketchers",
-                        "description": "Prototype af en hjemmeside, der kunne bruges af et Urban Sketchers gruppe.",
+                        "description": "Hjemmeside, der kunne bruges af et Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
@@ -464,7 +464,7 @@
                     },
                     {
                         "name": "Urban sketchers",
-                        "description": "Prototype av en hjemmeside, der kunne brukes av en Urban Sketchers gruppe.",
+                        "description": "Netside, der kunne brukes av en Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
