@@ -82,6 +82,13 @@
                     "description": "Drawings I make.",
                     "url": "https://davidpaarup.com/drawings.html",
                     "current": true
+                },
+                {
+                    "name": "Urban sketchers",
+                    "description": "Prototype of a website that could be used by an Urban Sketchers chapter.",
+                    "url": "https://urban-sketchers.vercel.app",
+                    "startYear": 2025, 
+                    "location": "Oslo"
                 }
                 ]
             },
@@ -200,6 +207,13 @@
                     "description": "Dibujos que hago.",
                     "url": "https://davidpaarup.com/drawings.html",
                     "current": true
+                },
+                {
+                    "name": "Urban sketchers",
+                    "description": "Prototipo de un sitio web que podría ser usado por un grupo de Urban Sketchers.",
+                    "url": "https://urban-sketchers.vercel.app",
+                    "startYear": 2025, 
+                    "location": "Oslo"
                 }
                 ]
             },
@@ -320,6 +334,13 @@
                         "description": "Tegninger jeg laver.",
                         "url": "https://davidpaarup.com/drawings.html",
                         "current": true
+                    },
+                    {
+                        "name": "Urban sketchers",
+                        "description": "Prototyp af en hjemmeside, der kunne bruges af et Urban Sketchers gruppe.",
+                        "url": "https://urban-sketchers.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
                     }
                 ]
             },
@@ -440,6 +461,13 @@
                         "description": "Tegninger jeg lager.",
                         "url": "https://davidpaarup.com/drawings.html",
                         "current": true
+                    },
+                    {
+                        "name": "Urban sketchers",
+                        "description": "Prototyp av en hjemmeside, der kunne brukes av en Urban Sketchers gruppe.",
+                        "url": "https://urban-sketchers.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
                     }
                 ]
             },
