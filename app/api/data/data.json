@@ -337,7 +337,7 @@
                     },
                     {
                         "name": "Urban sketchers",
-                        "description": "Hjemmeside, der kunne bruges af et Urban Sketchers gruppe.",
+                        "description": "Hjemmeside, der kunne bruges af en Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
@@ -464,7 +464,7 @@
                     },
                     {
                         "name": "Urban sketchers",
-                        "description": "Netside, der kunne brukes av en Urban Sketchers gruppe.",
+                        "description": "Nettside, der kunne brukes av en Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
