@@ -93,7 +93,7 @@
                     {
                         "name": "Photography portfolio",
                         "description": "Website that could be used by a photographer. Built with Builder.io.",
-                        "url": "photography-portfolio-azure.vercel.app",
+                        "url": "https://photography-portfolio-azure.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
                     }
@@ -225,7 +225,7 @@
                     {
                         "name": "Portafolio de fotografía",
                         "description": "Sitio web que podría ser usado por un fotógrafo. Hecho con Builder.io.",
-                        "url": "photography-portfolio-azure.vercel.app",
+                        "url": "https://photography-portfolio-azure.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
                     }
@@ -359,7 +359,7 @@
                     {
                         "name": "Fotografiportfolio",
                         "description": "Hjemmeside, der kunne bruges af en fotograf. Bygget med Builder.io.",
-                        "url": "photography-portfolio-azure.vercel.app",
+                        "url": "https://photography-portfolio-azure.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
                     }
@@ -493,7 +493,7 @@
                     {
                         "name": "Fotografiportfolio",
                         "description": "Nettside, der kunne brukes av en fotograf. Bygget med Builder.io.",
-                        "url": "photography-portfolio-azure.vercel.app",
+                        "url": "https://photography-portfolio-azure.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
                     }
