@@ -70,26 +70,33 @@
             "projects": {
                 "sectionTitle": "Projects",
                 "data": [
-                {
-                    "name": "Alex Lomart",
-                    "description": "Photography portfolio using Wordpress.",
-                    "url": "https://alexlomart.com",
-                    "startYear": 2019, 
-                    "location": "Madrid"
-                },
-                {
-                    "name": "Drawings",
-                    "description": "Drawings I make.",
-                    "url": "https://davidpaarup.com/drawings.html",
-                    "current": true
-                },
-                {
-                    "name": "Urban Sketchers",
-                    "description": "Website that could be used by an Urban Sketchers chapter.",
-                    "url": "https://urban-sketchers.vercel.app",
-                    "startYear": 2025, 
-                    "location": "Oslo"
-                }
+                    {
+                        "name": "Alex Lomart",
+                        "description": "Photography portfolio using Wordpress.",
+                        "url": "https://alexlomart.com",
+                        "startYear": 2019, 
+                        "location": "Madrid"
+                    },
+                    {
+                        "name": "Drawings",
+                        "description": "Drawings I make.",
+                        "url": "https://davidpaarup.com/drawings.html",
+                        "current": true
+                    },
+                    {
+                        "name": "Urban Sketchers",
+                        "description": "Website that could be used by an Urban Sketchers chapter. Built with Builder.io.",
+                        "url": "https://urban-sketchers.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
+                    },
+                    {
+                        "name": "Photography portfolio",
+                        "description": "Website that could be used by a photographer. Built with Builder.io.",
+                        "url": "photography-portfolio-azure.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
+                    }
                 ]
             },
             "skills": {
@@ -195,26 +202,33 @@
             "projects": {
                 "sectionTitle": "Proyectos",
                 "data": [
-                {
-                    "name": "Alex Lomart",
-                    "description": "Portafolio de fotografía usando Wordpress.",
-                    "url": "https://alexlomart.com",
-                    "startYear": 2019,
-                    "location": "Madrid"
-                },
-                {
-                    "name": "Dibujos",
-                    "description": "Dibujos que hago.",
-                    "url": "https://davidpaarup.com/drawings.html",
-                    "current": true
-                },
-                {
-                    "name": "Urban Sketchers",
-                    "description": "Sitio web que podría ser usado por un grupo de Urban Sketchers.",
-                    "url": "https://urban-sketchers.vercel.app",
-                    "startYear": 2025, 
-                    "location": "Oslo"
-                }
+                    {
+                        "name": "Alex Lomart",
+                        "description": "Portafolio de fotografía usando Wordpress.",
+                        "url": "https://alexlomart.com",
+                        "startYear": 2019,
+                        "location": "Madrid"
+                    },
+                    {
+                        "name": "Dibujos",
+                        "description": "Dibujos que hago.",
+                        "url": "https://davidpaarup.com/drawings.html",
+                        "current": true
+                    },
+                    {
+                        "name": "Urban Sketchers",
+                        "description": "Sitio web que podría ser usado por un grupo de Urban Sketchers.",
+                        "url": "https://urban-sketchers.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
+                    },
+                    {
+                        "name": "Portafolio de fotografía",
+                        "description": "Sitio web que podría ser usado por un fotógrafo. Hecho con Builder.io.",
+                        "url": "photography-portfolio-azure.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
+                    }
                 ]
             },
             "skills": {
@@ -339,6 +353,13 @@
                         "name": "Urban Sketchers",
                         "description": "Hjemmeside, der kunne bruges af en Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
+                    },
+                    {
+                        "name": "Fotografiportfolio",
+                        "description": "Hjemmeside, der kunne bruges af en fotograf. Bygget med Builder.io.",
+                        "url": "photography-portfolio-azure.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
                     }
@@ -466,6 +487,13 @@
                         "name": "Urban Sketchers",
                         "description": "Nettside, der kunne brukes av en Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
+                        "startYear": 2025, 
+                        "location": "Oslo"
+                    },
+                    {
+                        "name": "Fotografiportfolio",
+                        "description": "Nettside, der kunne brukes av en fotograf. Bygget med Builder.io.",
+                        "url": "photography-portfolio-azure.vercel.app",
                         "startYear": 2025, 
                         "location": "Oslo"
                     }
