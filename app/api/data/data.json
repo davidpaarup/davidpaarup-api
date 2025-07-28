@@ -78,12 +78,6 @@
                         "location": "Madrid"
                     },
                     {
-                        "name": "Drawings",
-                        "description": "Drawings I make.",
-                        "url": "drawings.html",
-                        "current": true
-                    },
-                    {
                         "name": "Urban Sketchers",
                         "description": "Website that could be used by an Urban Sketchers chapter. Built with Builder.io.",
                         "url": "https://urban-sketchers.vercel.app",
@@ -208,12 +202,6 @@
                         "url": "https://alexlomart.com",
                         "startYear": 2019,
                         "location": "Madrid"
-                    },
-                    {
-                        "name": "Dibujos",
-                        "description": "Dibujos que hago.",
-                        "url": "drawings.html",
-                        "current": true
                     },
                     {
                         "name": "Urban Sketchers",
@@ -344,12 +332,6 @@
                         "location": "Madrid"
                     },
                     {
-                        "name": "Tegninger",
-                        "description": "Tegninger jeg laver.",
-                        "url": "drawings.html",
-                        "current": true
-                    },
-                    {
                         "name": "Urban Sketchers",
                         "description": "Hjemmeside, der kunne bruges af en Urban Sketchers gruppe.",
                         "url": "https://urban-sketchers.vercel.app",
@@ -476,12 +458,6 @@
                         "url": "https://alexlomart.com",
                         "startYear": 2019,
                         "location": "Madrid"
-                    },
-                    {
-                        "name": "Tegninger",
-                        "description": "Tegninger jeg lager.",
-                        "url": "drawings.html",
-                        "current": true
                     },
                     {
                         "name": "Urban Sketchers",
